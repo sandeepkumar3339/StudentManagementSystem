@@ -1,6 +1,6 @@
 # StudentManagementSystem
 
-ABSTRACT
+ABSTRACT: 
 The student attendance management system is a mini project that
 aims to simplify and streamline the current attendance system through
 a password protected system. It provides various features that are
@@ -9,7 +9,7 @@ teachers and students. This project was designed with a modular
 approach using the Java programming language and SQL and thus
 implements various features of it into the code.
 
-INTRODUCTION
+INTRODUCTION: 
 The 21st century is all about technology. Schools and colleges are also
 starting to incorporate more and more technology into their teaching The
 management and maintenance of student information is a key task for any
